@@ -48,8 +48,7 @@ nav = [
    { "voor datahouders" = [
         "datahouder/index.md",
         "datahouder/bestuurder.md",
-        "datahouder/cio.md",
-        "datahouder/analist.md",
+        "datahouder/technisch.md",
    ]},
    { "voor datagebruikers" = [
         "datagebruiker/index.md",
@@ -343,3 +342,4 @@ alternate = [
     { name = "English", link = "/en/", lang = "en" },
     { name = "Nederlands", link = "/nl/", lang = "nl" }
 ]
+

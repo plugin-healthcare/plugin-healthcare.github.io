@@ -1,9 +1,9 @@
 ---
 icon: lucide/landmark
-title: Bestuurders
+title: Bestuurders & managers
 ---
 
-# PLUGIN voor bestuurders bij datahouders
+# PLUGIN voor bestuurders & managers van datahouders
 
 ## Organisatie van hergebruik van gezondheidsgegevens
 
