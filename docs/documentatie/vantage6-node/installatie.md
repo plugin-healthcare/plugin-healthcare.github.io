@@ -15,7 +15,6 @@ title: Installatie vantage6 node
 * Indien gebruik gemaakt wordt van een NVIDIA GPU, moet naast de standaard NVIDIA drivers ook de [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/install-guide.html) worden geïnstalleerd.
 
 ## Installatie van vantage6 software
-Vantage6 nodes draaien als Docker container op de Linux server van de datahouder. Om interactie met deze containers te vergemakkelijken, is er een command line interface (CLI) beschikbaar. Deze CLI is geschreven in Python3 en is als package beschikbaar via [PyPI](https://pypi.org).
 
 De installatie van een vantage6 node op een server loopt via de vantage6 command line interface (CLI). Via deze CLI kan men een nieuwe node configureren, starten, stoppen en monitoren ([zie vantage6 node documentatie voor CLI overzicht](https://docs.vantage6.ai/en/main/node/use.html)).
 
