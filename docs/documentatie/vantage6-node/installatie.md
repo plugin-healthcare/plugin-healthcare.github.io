@@ -117,7 +117,7 @@ Het aanmaken van een key pair kan met de vantage6 CLI via het volgende commando:
 v6 node create-private-key
 ```
 
-beantwoord de vragen in de wizard:
+Beantwoord de vragen in de wizard:
 
 | # | Question | Beschrijving | Default |
 |---|----------|-------------|---------|
