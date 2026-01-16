@@ -1,11 +1,9 @@
 ---
 icon: lucide/book-check
-title: Handleidingen
+title: documentatie
 hide:
   - navigation
 ---
-
-# Handleidingen
 
 <div class="grid cards" markdown>
 
