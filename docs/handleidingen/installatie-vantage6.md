@@ -129,7 +129,7 @@ Beantwoord de vragen in de wizard:
 | 3 | Enter your password: | Wachtwoord voor server authenticatie | - |
 | 4 | Enter your MFA code: | Multi-factor authenticatie code | alleen invullen indien mfa is ingesteld |
 
-na het succesvol doorlopen wordt de public key opgeslagen op de centrale vantage6 server en de private key als `.pem` bestand lokaal opgeslagen. Bewaar dit bestand op een veilige plek, deze is nodig voor het configureren van nieuwe nodes binnen de organisatie.
+Na het succesvol doorlopen wordt de public key opgeslagen op de centrale vantage6 server en de private key als `.pem` bestand lokaal opgeslagen. Bewaar dit bestand op een veilige plek, deze is nodig voor het configureren van nieuwe nodes binnen de organisatie.
 
 !!! info "Organization key vervangen"
     Indien de private key verloren is of vervangen moet worden, kan dit via het bovenstaande commando opnieuw worden uitgevoerd. De nieuwe public key zal de oude overschrijven op de server. De nieuwe private key zal dan lokaal op alle servers moeten worden opgeslagen waar nodes geconfigureerd worden.
