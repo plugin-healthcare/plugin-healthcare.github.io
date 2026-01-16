@@ -24,7 +24,7 @@ Na het opzetten en activeren van de gewenste python omgeving, kan de vantage6 CL
 pip install vantage6
 ```
 
-test of de installatie gelukt is, kan met het commando:
+Test of de installatie gelukt is, kan met het commando:
 
 ``` bash
 vnode --help
