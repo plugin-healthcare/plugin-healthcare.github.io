@@ -23,7 +23,7 @@ hide:
 
     PLUGIN maakt gebruik van vantage6 als een open, hybride basisinfrastructuur voor data aanleveringen, gefedereerde analyse en gefedereerd leren van algoritmes.
 
-    [:octicons-arrow-right-24: naar de vantage6 installatiegids](./installatie-vantage6.md)
+    [:octicons-arrow-right-24: naar de vantage6 installatiegids](./vantage6-node/benodigdheden.md)
 
 -   :lucide-flame:{ .lg .middle} __PLUGIN FHIR profiel__
 
