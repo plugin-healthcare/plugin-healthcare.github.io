@@ -1,10 +1,7 @@
 ---
 icon: lucide/wrench
-title: Installatiegids vantage6
+title: Installatie vantage6 node
 ---
-
-# Installatie vantage6
-
 ## Randvoorwaarden
 
 * Docker Engine geïnstalleerd
