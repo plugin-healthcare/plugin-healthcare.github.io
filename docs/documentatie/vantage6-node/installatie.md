@@ -184,7 +184,7 @@ Indien gewenst kunnen andere gebruikers ofwel via het wachtwoord ofwel via `sudo
 
 ### Automatisch starten van de vantage6 node bij systeem opstart
 
-De node wordt bij herstart van de server niet automatisch gestart. Om dit te automatiseren kan een er opstart script worden aangemaakt via systemd:
+De node wordt bij herstart van de server niet automatisch gestart. Om dit te automatiseren kan er een opstart script worden aangemaakt via systemd:
 
 1. Maak een bash script met activatie van de python omgeving en het starten van de node, bijvoorbeeld `/home/vantage6/start-vantage6-node.sh`:
 
