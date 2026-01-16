@@ -92,7 +92,7 @@ De node configuratie kan op twee manieren worden uitgevoerd: via een interactiev
     | 24 | Path to private key file: | Locatie van private key bestand* (als encryptie is ingeschakeld) | - | Alleen gevraagd als encryptie is ingeschakeld |
 
 !!! info "*Private key aanmaken"
-    Elke organizatie heeft een eigen private key (.pem bestand). Indien deze nog niet is aangemaakt, kan dit volgens de instructies in de volgende sectie "Aanmaken private key". Laat in dat geval het pad naar de private key leeg. Indien er al eerder een key is aangemaakt voor deze organisatie, vul dan hier het pad naar dat bestand in.
+    Elke organisatie heeft een eigen private key (.pem bestand). Indien deze nog niet is aangemaakt, kan dit volgens de instructies in de volgende sectie "Aanmaken private key". Laat in dat geval het pad naar de private key leeg. Indien er al eerder een key is aangemaakt voor deze organisatie, vul dan hier het pad naar dat bestand in.
 
 !!! warning "connection errors"
     De wizard probeert na stap 4 te authenticeren met de server om automatisch collaboratie instellingen te detecteren. Als authenticatie mislukt, wordt je gevraagd door te gaan met handmatige configuratie of het setup proces af te breken.
