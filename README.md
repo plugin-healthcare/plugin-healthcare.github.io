@@ -41,7 +41,7 @@ This repository contains the source code of the PLUGIN documentation websites. I
 4. Serve the documentation locally
 
     ```bash
-    zenzical serve
+    zensical serve
     ```
 
     > open your browser and navigate to `http://localhost:8000`.
