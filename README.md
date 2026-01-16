@@ -25,7 +25,7 @@ This repository contains the source code of the PLUGIN documentation websites. I
     uv sync
     ```
 
-3. activate the virtual environment
+3. Activate the virtual environment
     - a. linux/macOS
 
         ```bash
