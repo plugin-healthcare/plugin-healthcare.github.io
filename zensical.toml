@@ -56,15 +56,29 @@ nav = [
         "datagebruiker/beleid.md",
         "datagebruiker/innovatie.md",
    ]},
-   { "handleidingen" = [
-        "handleidingen/index.md",
-        "handleidingen/benodigdheden-deelname.md",
-        "handleidingen/installatie-vantage6.md",
+   { "Documentatie" = [
+        "documentatie/index.md",
+        {"Installatiegids vantage6 node" = [
+        "documentatie/vantage6-node/benodigdheden.md",
+        "documentatie/vantage6-node/installatie.md",
+        ]},
+        {"Installatiegids PLUGIN-Lake" = [
+        "documentatie/plugin-lake/benodigdheden.md",
+        "documentatie/plugin-lake/installatie.md",
+        ]},
+        {"Installatiegids PLUGIN-ML" = [
+        "documentatie/plugin-ml/benodigdheden.md",
+        "documentatie/plugin-ml/installatie.md",
+        ]},
+
    ]},
    { "community" = [
         "community/index.md",
         "community/nieuws.md",
         "community/presentaties.md",
+     ]},
+   { "ibd" = [
+        "ibd/index.md",
      ]},
  ]
 

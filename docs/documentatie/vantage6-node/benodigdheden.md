@@ -1,9 +1,7 @@
 ---
 icon: lucide/book-open-check
-title: Benodigdheden deelname
+title: Benodigdheden installatie vantage6 node
 ---
-
-# Benodigdheden voor deelname
 
 Om deel te nemen aan het project, moet aan een aantal voorwaarden voldaan worden. Deze bevinden zich op drie vlakken:
 
@@ -47,9 +45,9 @@ Voor de vantage6 [node](#vantage6-node-target) software, is een server nodig die
 ### Server/virtual machine
 De specificaties voor de server (virtual machine) zijn (bij voorkeur) als volgt:
 
-* >= 16 cores, x86/x64 CPU
-* >= 56 GB CPU RAM
-* >= 360 GB SSD
+* \>= 16 cores, x86/x64 CPU
+* \>= 56 GB CPU RAM
+* \>= 360 GB SSD
 * virtualization enabled
 * GPU (optioneel, maar aanbevolen):
     - [CUDA compatible](https://developer.nvidia.com/cuda-gpus) NVIDIA kaart
@@ -61,7 +59,7 @@ Of een **GPU** nodig is, is afhankelijk de use cases waaraan deelgenomen wordt. 
 
 
 ### Network
-* >= 100Mbit ethernet
+* \>= 100Mbit ethernet
 * Port 443/TCP (https) open voor _uitgaand_ verkeer naar ...
     * DHD
         * vantage6 server: [https://plugin.dhd.nl](https://plugin.dhd.nl)
@@ -75,7 +73,7 @@ Of een **GPU** nodig is, is afhankelijk de use cases waaraan deelgenomen wordt. 
 
 ### Software
 * Operating system: linux of Windows
-* [Python](https://python.org) â‰¥ 3.10
+* [Python](https://python.org) >= 3.10
 * [Docker](https://www.docker.com)
 
 !!! warning
@@ -84,13 +82,12 @@ Of een **GPU** nodig is, is afhankelijk de use cases waaraan deelgenomen wordt. 
     Het is echter bekend dat (momenteel) de Azure VMs die nested virtualization gÃ©Ã©n GPU hebben. Dit betekent dat ziekenhuizen een VM mÃ©t GPU nodig hebben, het beste voor een Linux host OS kunnen kiezen.
 
 
-Installatie van de vantage6 node software staat beschreven in de sectie [installatiegids van vantage6](installatie-vantage6.md).
+Installatie van de vantage6 node software staat beschreven op [de volgende pagina](./v6-node.md).
 
-(benodigde-data-target)=
 ## Beschikbaar stellen van data
 Om federatieve toepassingen mogelijk te maken, is het belangrijk dat iedere deelnemer zijn/haar klinische data op dezelfde manier aan het platform aanbiedt. Hiervoor zijn op twee vlakken keuzes noodzakelijk:
 
-1. Op **inhoudelijk vlak**: hoe medische gegevens gestructureerd, gecodeerd, en geÃ¯nterpreteerd dienen te worden.
+1. Op **inhoudelijk vlak**: hoe medische gegevens gestructureerd, gecodeerd, en geïnterpreteerd dienen te worden.
 2. Op **technisch vlak**: de wijze van aanlevering en/of het verschaffen van toegang. Bijvoorbeeld, of de data wordt ontsloten via een relationele database, FHIR-server, of via blob storage.
 
 ### Het inhoudelijk vlak

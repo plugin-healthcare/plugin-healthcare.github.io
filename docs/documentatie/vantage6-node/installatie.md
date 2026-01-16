@@ -1,10 +1,7 @@
 ---
 icon: lucide/wrench
-title: Installatiegids vantage6
+title: Installatie vantage6 node
 ---
-
-# Installatie vantage6
-
 ## Randvoorwaarden
 
 * Docker geïnstalleerd
@@ -24,7 +21,7 @@ title: Installatiegids vantage6
 
 
 ## Installatie van vantage6 software
-Vantage6 nodes draaien als Docker container op de server. Om interactie met deze containers te vergemakkelijken, is er een command line interface (CLI) beschikbaar. Deze CLI is geschreven in Python3 en is als package beschikbaar via [PyPI](https://pypi.org).
+Vantage6 nodes draaien als Docker container op de Linux server van de datahouder. Om interactie met deze containers te vergemakkelijken, is er een command line interface (CLI) beschikbaar. Deze CLI is geschreven in Python3 en is als package beschikbaar via [PyPI](https://pypi.org).
 
 
 Het volgende commando installeert de laatste versie van CLI:
