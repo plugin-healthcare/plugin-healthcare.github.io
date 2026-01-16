@@ -1,6 +1,6 @@
 ---
 icon: lucide/book-open-check
-title: Benodigdheden installatie vantage6 node
+title: Benodigdheden
 ---
 
 Om deel te nemen aan het project, moet aan een aantal voorwaarden voldaan worden. Deze bevinden zich op drie vlakken:

@@ -1,6 +1,6 @@
 ---
 icon: lucide/wrench
-title: Installatie vantage6 node
+title: Installatie
 ---
 ## Randvoorwaarden
 

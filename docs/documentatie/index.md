@@ -1,6 +1,6 @@
 ---
 icon: lucide/book-check
-title: documentatie
+title: Documentatie
 hide:
   - navigation
 ---
@@ -29,7 +29,15 @@ hide:
 
     PLUGIN werkt actief aan het standaardiseren en verbeteren van databeschikbaarheid. In samenwerking met zorgorganisaties, bedrijven en overheidsinstellingen heeft PLUGIN een FHIR profiel opgesteld.
 
-    [:octicons-arrow-right-24: Lees meer het FHIR profiel](https://plugin.healthcare/fhir/)
+    [:octicons-arrow-right-24: Lees meer over het FHIR profiel](https://plugin.healthcare/fhir/)
+
+-   :lucide-telescope:{ .lg .middle} __PLUGIN architectuur__
+
+    ---
+
+    PLUGIN is gebouwd met een modulaire architectuur en maakt gebruik van de beste open source componenten voor data.
+
+    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](architectuur/index.md)
 
 -   :material-format-font:{ .lg .middle } __AI-ondersteund coderen__
 
@@ -39,21 +47,14 @@ hide:
 
     [:octicons-arrow-right-24: Lees meer over AI-ondersteund coderen](https://www.dhd.nl/producten-diensten/registratie-data/ondersteuning-bij-medische-codering/ai-ondersteund-coderen)
 
--   :material-scale-balance:{ .lg .middle } __Open en transparant__
+
+-   :material-stomach:{ .lg .middle } __IBD usecase__
 
     ---
 
-    PLUGIN maakt gebruik van open source componenten en de broncode is beschikbaar op [GitHub](https://github.com/plugin-healthcare).
+    In samenwerking met Health-RI en Cumuluz wordt PLUGIN getest voor verdere opschaling aan de hand van de IBD usecase.
 
-    [:octicons-arrow-right-24: Lees meer over onze voorwaarden en spelregels.](#)
-
-</div>
-
-<br>
-
-# Achtergrond
-
-<div class="grid cards" markdown>
+    [:octicons-arrow-right-24: Lees meer over de IBD usecase](ibd/index.qmd)
 
 -   :lucide-signpost-big:{ .lg .middle } __PLUGIN als referentie implementatie van data stations__
 

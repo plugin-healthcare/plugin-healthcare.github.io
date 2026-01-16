@@ -77,9 +77,6 @@ nav = [
         "community/nieuws.md",
         "community/presentaties.md",
      ]},
-   { "ibd" = [
-        "ibd/index.md",
-     ]},
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
