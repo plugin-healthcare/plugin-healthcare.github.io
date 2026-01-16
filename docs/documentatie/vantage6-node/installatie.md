@@ -236,6 +236,6 @@ De node wordt bij herstart van de server niet automatisch gestart. Om dit te aut
     sudo systemctl status vantage6-node.service
     ```
 !!! Warning "Service error indien bij actieve node"
-    Indien de node al actied bij het starten van de service, zal er een foutmelding verschijnen vanuit vantage6 en de service als mislukt worden gemarkeerd. Dit kan genegeerd worden aangezien de node al draait.
+    Indien de node al actief is bij het starten van de service, zal er een foutmelding verschijnen vanuit vantage6 en de service als mislukt worden gemarkeerd. Dit kan genegeerd worden aangezien de node al draait.
 
 
