@@ -58,7 +58,7 @@ De node configuratie kan op twee manieren worden uitgevoerd: via een interactiev
 
 ## Configuratie via wizard
 
-1. activeer de python omgeving waarin vantage6 is geïnstalleerd.
+1. Activeer de python omgeving waarin vantage6 is geïnstalleerd.
 2. Voer het volgende commando uit om de configuratie wizard te starten:
 
     ``` bash
