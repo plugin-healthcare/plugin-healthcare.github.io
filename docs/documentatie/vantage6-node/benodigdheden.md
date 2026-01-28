@@ -79,7 +79,7 @@ Of een **GPU** nodig is, is afhankelijk de use cases waaraan deelgenomen wordt. 
 !!! warning
     Voor het draaien van Docker is onder Windows [WSL2](https://learn.microsoft.com/en-us/windows/wsl/) en _dus_ nested virtualization nodig.
 
-    Het is echter bekend dat (momenteel) de Azure VMs die nested virtualization gÃ©Ã©n GPU hebben. Dit betekent dat ziekenhuizen een VM mÃ©t GPU nodig hebben, het beste voor een Linux host OS kunnen kiezen.
+    Het is echter bekend dat (momenteel) de Azure VMs die nested virtualization géén GPU hebben. Dit betekent dat ziekenhuizen een VM mèt GPU nodig hebben, het beste voor een Linux host OS kunnen kiezen.
 
 
 Installatie van de vantage6 node software staat beschreven op [de volgende pagina](./v6-node.md).
