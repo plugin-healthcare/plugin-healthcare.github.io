@@ -193,11 +193,13 @@ De node wordt bij herstart van de server niet automatisch gestart. Om dit te aut
     source /path/to/your/python/environment/bin/activate
     v6 node start --name <node-naam>
     ```
+
 2. Maak het script uitvoerbaar:
 
     ``` bash
     chmod +x /home/vantage6/start-vantage6-node.sh
     ```
+
 3. Maak een systemd service bestand aan, bijvoorbeeld `/etc/systemd/system/vantage6-node.service`:
 
     ``` ini
@@ -214,27 +216,32 @@ De node wordt bij herstart van de server niet automatisch gestart. Om dit te aut
     [Install]
     WantedBy=multi-user.target
     ```
+
     Vervang `<NAME>` door de naam van de node, `<USER>` door de systeem gebruiker waarop de node draait (bijvoorbeeld `vantage6`), en pas het pad naar het start script aan.
 4. Herlaad systemd om de nieuwe service te registreren:
 
     ``` bash
     sudo systemctl daemon-reload
     ```
+
 5. Schakel de service in om automatisch te starten bij systeem opstart:
 
     ``` bash
     sudo systemctl enable vantage6-node.service
     ```
+
 6. Test de service door deze handmatig te starten:
 
     ``` bash
     sudo systemctl start vantage6-node.service
     ```
+
 7. Controleer de status van de service:
 
     ``` bash
     sudo systemctl status vantage6-node.service
     ```
+
 !!! Warning "Service error indien bij actieve node"
     Indien de node al actief is bij het starten van de service, zal er een foutmelding verschijnen vanuit vantage6 en de service als mislukt worden gemarkeerd. Dit kan genegeerd worden aangezien de node al draait.
 
