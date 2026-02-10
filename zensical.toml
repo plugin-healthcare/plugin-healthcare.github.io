@@ -70,6 +70,17 @@ nav = [
         "documentatie/plugin-ml/benodigdheden.md",
         "documentatie/plugin-ml/installatie.md",
         ]},
+        {"Architectuur" = [
+        "documentatie/architectuur/introduction.md",
+        "documentatie/architectuur/constraints.md",
+        "documentatie/architectuur/scope.md",
+        "documentatie/architectuur/solution.md",
+        "documentatie/architectuur/building-blocks.md",
+        "documentatie/architectuur/runtime.md",
+        "documentatie/architectuur/deployment.md",
+        "documentatie/architectuur/concepts.md",
+        "documentatie/architectuur/adr.md",
+        ]},
 
    ]},
    { "community" = [
@@ -359,6 +370,8 @@ alternate = [
 [project.markdown_extensions.pymdownx.superfences]
 [project.markdown_extensions.pymdownx.tabbed]
 alternate_style = true
+
+[project.markdown_extensions.footnotes]
 
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.highlight]
