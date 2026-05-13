@@ -5,7 +5,7 @@ title: Applicatie
 
 PLUGIN is modulair opgebouwd en bestaat daarmee uit verschillende componenten die hieronder schematisch zijn weergegeven. Een meer gedetailleerde toelichting staat beschreven in de handleiding en architectuur documentatie.
 
-![](../images/PLUGIN_applicatie_componenten.png)
+![](../images/plugin-applicaties.png)
 
 
 !!! abstract "Leeswijzer applicatie componenten"
