@@ -1,5 +1,5 @@
 ---
-icon: lucide/hard-hat
+icon: lucide/layout-grid
 title: Applicatie
 ---
 
