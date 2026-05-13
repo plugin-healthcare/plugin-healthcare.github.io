@@ -43,7 +43,7 @@ hide:
 
     ---
 
-    AI-ondersteund coderen is een van de eerste grootschalige toepassingen die gebruik maakt van PLUGIN. Met deze dienst van DHD kunnen ziekenhuizen automatisch ICD codes afleiden voor dagopnames en klinische opnames.
+    AI-ondersteund coderen is een van de eerste grootschalige toepassingen die gebruik maakt van PLUGIN. Met deze dienst van DHD kunnen ziekenhuizen automatisch ICD-codes afleiden voor dagopnames en klinische opnames.
 
     [:octicons-arrow-right-24: Lees meer over AI-ondersteund coderen](https://www.dhd.nl/producten-diensten/registratie-data/ondersteuning-bij-medische-codering/ai-ondersteund-coderen)
 
