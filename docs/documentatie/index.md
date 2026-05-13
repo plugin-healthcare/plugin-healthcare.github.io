@@ -19,7 +19,7 @@ hide:
 
     ---
 
-    PLUGIN maakt gebruik van vantage6 als een open, hybride basisinfrastructuur voor data aanleveringen, gefedereerde analyse en gefedereerd leren van algoritmes.
+    PLUGIN maakt gebruik van vantage6 als een open, hybride basisinfrastructuur voor data-aanleveringen, gefedereerde analyse en gefedereerd leren van algoritmes.
 
     [:octicons-arrow-right-24: naar de vantage6 installatiegids](./vantage6-node/benodigdheden.md)
 
@@ -47,14 +47,6 @@ hide:
 
     [:octicons-arrow-right-24: Lees meer over AI-ondersteund coderen](https://www.dhd.nl/producten-diensten/registratie-data/ondersteuning-bij-medische-codering/ai-ondersteund-coderen)
 
-
--   :material-stomach:{ .lg .middle } __IBD usecase__
-
-    ---
-
-    In samenwerking met Health-RI en Cumuluz wordt PLUGIN getest voor verdere opschaling aan de hand van de IBD usecase.
-
-    [:octicons-arrow-right-24: Lees meer over de IBD usecase](ibd/index.qmd)
 
 -   :lucide-signpost-big:{ .lg .middle } __PLUGIN als referentie implementatie van data stations__
 
