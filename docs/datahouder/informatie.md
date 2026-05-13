@@ -1,5 +1,5 @@
 ---
-icon: lucide/hard-hat
+icon: lucide/library-big
 title: Informatie
 ---
 
