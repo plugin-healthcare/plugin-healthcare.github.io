@@ -11,7 +11,7 @@ hide:
 
     ---
 
-    Van kennismaking tot en het het klaarzetten en valideren van de data: datahouders kunnen in acht stappen deelnemen aan PLUGIN.
+    Van kennismaking tot en met het klaarzetten en valideren van de data: datahouders kunnen in acht stappen deelnemen aan PLUGIN.
 
     [:octicons-arrow-right-24: naar het stappenplan](#)
 
