@@ -1,4 +1,7 @@
-
+---
+icon: lucide/workflow
+title: Proces
+---
 
 Binnen PLUGIN staat de vraag van de datagebruiker centraal. De werkwijze volgt een gestandaardiseerd proces waarin data-aanvragen en analyses gecontroleerd verlopen.
 
