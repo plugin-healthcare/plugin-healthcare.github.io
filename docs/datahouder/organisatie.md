@@ -1,5 +1,5 @@
 ---
-icon: lucide/hard-hat
+icon: lucide/building-2
 title: Organisatie
 ---
 
