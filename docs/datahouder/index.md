@@ -50,7 +50,7 @@ Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgeleg
 <div class="grid cards" markdown>
 
 - :lucide-building-2: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./organisatie.md)
-- :lucide-hard-hat: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
+- :lucide-workflow: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
 - :lucide-hard-hat: __Informatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
 - :lucide-hard-hat: __Applicatie__ <br>[Lees meer :octicons-arrow-right-24:](./applicatie.md)
 - :lucide-hard-hat: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
