@@ -1,4 +1,7 @@
-
+---
+icon: lucide/library-big
+title: Informatie
+---
 
 Om analyses over meerdere ziekenhuizen mogelijk te maken, is het essentieel dat data op een consistente en interpreteerbare manier wordt aangeboden.
 Binnen PLUGIN wordt data daarom:
