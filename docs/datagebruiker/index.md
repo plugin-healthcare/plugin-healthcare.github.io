@@ -3,7 +3,7 @@ icon: nounproject/shared
 title: voor datagebruikers
 ---
 
-# PLUGIN ondersteund datagebruikers met het geschikt maken van data en het opvragen en/of analyseren van data
+# PLUGIN ondersteunt datagebruikers met het geschikt maken van data en het opvragen en/of analyseren van data
 
 Als onderzoeker, beleidsmaker of innovator wilt u kunnen werken met data uit meerdere ziekenhuizen. Tegelijkertijd wilt u dat dit veilig, zorgvuldig en volgens de juiste afspraken gebeurt.
 
