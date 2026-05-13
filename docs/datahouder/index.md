@@ -52,8 +52,9 @@ Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgeleg
 - :lucide-folder-code: __Leeswijzer voor bestuurders & managers__ <br>[Lees meer :octicons-arrow-right-24:](./bestuurder.md)
 - :lucide-hard-hat: __Leeswijzer voor technisch personeel__ <br>[Lees meer :octicons-arrow-right-24:](./technisch.md)
 - :lucide-hard-hat: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./organisatie.md)
-- :lucide-hard-hat: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./organisatie.md)
-- :lucide-hard-hat: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
-- :lucide-hard-hat: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
+- :lucide-hard-hat: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
+- :lucide-hard-hat: __Informatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
+- :lucide-hard-hat: __Applicatie__ <br>[Lees meer :octicons-arrow-right-24:](./applicatie.md)
+- :lucide-hard-hat: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
 
 </div>
