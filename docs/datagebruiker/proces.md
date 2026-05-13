@@ -11,14 +11,19 @@ Datagebruikers kunnen eerst in een centrale catalogus zoeken welke datasets en b
 - welke data aanwezig is
 - bij welke ziekenhuizen deze zich bevindt
 - en voor welke doeleinden deze gebruikt kan worden
+  
 **1. Indienen van een data-aanvraag of analyseverzoek**
 De datagebruiker definieert een data-aanvraag, onderzoeksvraag of analyse.
+
 **1. Validatie en autorisatie**
 Er wordt gecontroleerd of de vraag past binnen de afgesproken kaders en of toegang is toegestaan.
+
 **1. Distributie naar datastations**
 Het verzoek wordt uitgezet naar de relevante ziekenhuizen.
+
 **1. Lokale uitvoering**
 De gevraagde bewerking of analyse wordt uitgevoerd op de datastations.
+
 **1. Terugkoppeling van resultaten**
 Alleen de resultaten worden teruggestuurd naar de datagebruiker.
 
