@@ -53,6 +53,6 @@ Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgeleg
 - :lucide-workflow: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
 - :lucide-library-big: __Informatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
 - :lucide-layout-grid: __Applicatie__ <br>[Lees meer :octicons-arrow-right-24:](./applicatie.md)
-- :lucide-hard-hat: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
+- :lucide-cpu: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
 
 </div>
