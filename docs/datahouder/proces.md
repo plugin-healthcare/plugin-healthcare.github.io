@@ -1,5 +1,5 @@
 ---
-icon: lucide/hard-hat
+icon: lucide/workflow
 title: Proces
 ---
 
