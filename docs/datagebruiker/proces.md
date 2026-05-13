@@ -6,6 +6,7 @@ title: Proces
 Binnen PLUGIN staat de vraag van de datagebruiker centraal. De werkwijze volgt een gestandaardiseerd proces waarin data-aanvragen en analyses gecontroleerd verlopen.
 
 Dit proces bestaat uit:
+
 **1. Zoeken en verkennen van beschikbare data**
 
 Datagebruikers kunnen eerst in een centrale catalogus zoeken welke datasets en bronnen beschikbaar zijn binnen het netwerk. Deze catalogus bevat metadata over de beschikbare data, zodat inzicht ontstaat in:
