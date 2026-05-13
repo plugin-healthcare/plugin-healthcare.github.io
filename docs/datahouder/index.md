@@ -3,7 +3,7 @@ icon: nounproject/data-owner
 title: voor datahouders
 ---
 
-# PLUGIN ondersteund datahouders in het veilig beschikbaar stellen van gezondheidsgegevens
+# PLUGIN ondersteunt datahouders in het veilig beschikbaar stellen van gezondheidsgegevens
 
 Ziekenhuizen en andere datahouders staan voor een grote opgave om gezondheidsgegevens op grotere schaal beschikbaar te stellen voor hergebruik. De hoeveelheid gegevensverzoeken bij datahouders blijft onverminderd stijgen. Tegelijkertijd zien we dat veel van deze verzoeken of samenwerkingsverbanden allemaal een eigen infrastructuur nodig hebben. Dit terwijl de ontwikkelkalender van de IT afdeling al overvol is. Er is daarom dringend behoefte om op een __open, gestandaardiseerde__ en __veilige__ manier data beschikbaar te stellen. Dit is wat PLUGIN biedt.
 
