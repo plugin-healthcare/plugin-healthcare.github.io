@@ -3,8 +3,6 @@ icon: lucide/hard-hat
 title: Proces
 ---
 
-##  Proces
-
 Het proces voor een datahouders richt zich op de eenmalige inrichting van de basisinfrastructuur, en het beschikbaar stellen van datasets wat een terugkerende activiteit is. Naarmate met de tijd meer data beschikbaar is gesteld, zal deze activiteit afnemen. Onderstaand overzicht verwijst binnenkort naar de gedetailleerde beschrijving van elke processtap.
 
 !!! abstract "Leeswijzer processtappen"
