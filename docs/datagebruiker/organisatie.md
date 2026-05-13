@@ -1,4 +1,7 @@
-
+---
+icon: lucide/building-2
+title: Organisatie
+---
 
 Binnen PLUGIN werken datagebruikers en datahouders samen binnen een landelijk netwerk, ondersteund door een gezamenlijke set van afspraken.
 Voor datagebruikers betekent dit:
