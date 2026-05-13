@@ -25,7 +25,7 @@ Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met 
 
     Dit gaat over de **inhoud** en het **begrip**. Als de brief eenmaal is geopend, willen we begrijpen wat er staat.
     We moeten dezelfde taal spreken en dezelfde definities gebruiken. Als ik "bank" schrijf, moet de ontvanger weten of ik een zitmeubel bedoel of een geldinstelling.
-    In de zorg maken we gebruik van landelijke codestelsels, zoals de DHD diagnose- en verrichtingenthesaurus, en international codestelsels zoals ICD10, SNOMED CT en LOINC.
+    In de zorg maken we gebruik van landelijke codestelsels, zoals de DHD diagnose- en verrichtingenthesaurus, en internationale codestelsels zoals ICD-10, SNOMED CT en LOINC.
 
     !!! quote "Analogie"
 
