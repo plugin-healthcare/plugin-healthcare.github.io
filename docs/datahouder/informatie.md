@@ -3,8 +3,6 @@ icon: lucide/hard-hat
 title: Informatie
 ---
 
-## Informatie
-
 Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met het standaardiseren van de manier hoe datahouders informatie vastleggen. Hiertoe zal op twee niveaus interoperabiliteit moeten worden gerealiseerd.
 
 <div class="grid cards" markdown>
