@@ -19,7 +19,7 @@ Het proces voor een datahouders richt zich op de eenmalige inrichting van de bas
 
         | Processtap | Waar toegelicht |
         |:-----------|:----------------|
-        | Inrichting data aanlevering | Op deze pagina onder [Informatie]() |
-        | Data validatie | Op deze pagina onder [Informatie]() |
+        | Inrichting data-aanlevering | Op deze pagina onder [Informatie]() |
+        | Datavalidatie | Op deze pagina onder [Informatie]() |
         | (Optioneel) Inrichting koppeling EPD voor resultaten uit een project | Handleiding project b.v. AI-ondersteund coderen |
 
