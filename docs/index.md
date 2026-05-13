@@ -16,7 +16,7 @@ In Nederlandse ziekenhuizen is ontzettend veel waardevolle kennis aanwezig. Gege
 ## Wat is PLUGIN?
 PLUGIN is een data infrastructuur van en vóór de Nederlandse ziekenhuiszorg. Het is een zogeheten **Health Data Space**: een veilige, digitale omgeving waarin zorgdata hergebruikt kan worden voor wetenschappelijk onderzoek, innovatie en beleid - ook wel secundair gebruik genoemd.
 
-Het unieke aan PLUGIN is dat het een initiatief is van en vóór de zorg zelf, met een publiek karakter zonder winstoogmerk. Daarmee willen we waarborgen dat onze zordata op een solidaire en betrouwbare manier wordt hergebruikt en daarmee publieke, maatschappelijke waarde creëert.
+Het unieke aan PLUGIN is dat het een initiatief is van en vóór de zorg zelf, met een publiek karakter zonder winstoogmerk. Daarmee willen we waarborgen dat onze zorgdata op een solidaire en betrouwbare manier wordt hergebruikt en publieke, maatschappelijke waarde creëert.
 
 ### Hoe het werkt: data blijven zoveel als mogelijk bij de bron
 Traditioneel worden voor hergebruik van gezondeheidsgegevens vaak kopieën van medische dossiers naar één centrale database gestuurd. Dat brengt veel risico's met zich mee. PLUGIN draait dit om. Wij werken volgens het principe dat **data bij de bron blijven**.
@@ -25,15 +25,13 @@ In plaats van de gegevens te verplaatsen naar de datagebruiker, brengen wij de o
 
 In het geval dat het niet anders kan, zoals bijvoorbeeld wanneer data verschillende zorginstellingen gecombineerd moeten worden of dat de data moeten worden opgenomen in een landelijke registratie, worden de data via het PLUGIN netwerk op een veilige manier doorgestuurd naar een centrale analyse omgeving.
 
-### Wat doet PLUGIN concreet?
-Wij leveren de diensten die nodig zijn om deze samenwerking mogelijk te maken. Dit doen we op drie niveaus:
+### Eén centrale toegang tot data
+Het PLUGIN‑datastation is de centrale ingang voor alle dataverzoeken binnen het ziekenhuis: van aanvraag tot analyse via één gestandaardiseerde route.
+Juist door deze centrale toegang kan PLUGIN het principe van data bij de bron ondersteunen. Onderzoeksvragen worden gecontroleerd naar de juiste data gebracht, zonder dat gegevens onnodig verplaatst hoeven te worden. Zo maakt het datastation federatief analyseren in de praktijk uitvoerbaar en beheersbaar.
 
-* **Toezien op eerlijke spelregels:** Wij zorgen voor de spelregels, het toezicht en de centrale 'telefoonboek'-functie zodat onderzoekers en ziekenhuizen elkaar veilig kunnen vinden.
-* **Ziekenhuizen helpen met het aansluiten op PLUGIN:** Wij ondersteunen ziekenhuizen bij de techniek om aan te sluiten en daarmee hun data op een gecontroleerde manier beschikbaar te stellen. We helpen met de installatie van de benodigde software en het beheer en ontlasten daarmee de organisatie.
-* **Gebruikers helpen de data te gebruiken:** Wij bieden onderzoekers de gereedschappen om – zonder de data te zien – toch gedetailleerde analyses en specifieke berekeningen te doen op de gegevens. Zo zetten we data om in waardevolle inzichten voor de zorg.
+Daarmee ontstaat één eenduidige werkwijze in plaats van losse, parallelle oplossingen. Het datastation zorgt voor overzicht, controle en herbruikbaarheid, en maakt veilige en opschaalbare inzet van data mogelijk.
 
-Samen bouwen we aan een lerend zorgsysteem, waarin veiligheid, betrouwbaarheid en medische vooruitgang hand in hand gaan.
-
+Tegelijkertijd bouwt het datastation voort op bestaande data‑ontsluitingssystemen binnen het ziekenhuis. In plaats van deze te vervangen, worden ze hergebruikt en verbonden tot één samenhangend geheel. Zo fungeert het als centraal knooppunt in de datastroom – het ‘hart van de zandloper’.
 
 <br>
 <br>
@@ -48,7 +46,7 @@ Samen bouwen we aan een lerend zorgsysteem, waarin veiligheid, betrouwbaarheid e
 
 <br>
 
-### Inmiddels zijn 36 ziekenhuizen aangesloten op PLUGIN
+### Inmiddels hebben 36 ziekenhuizen een PLUGIN-datastation staan
 
 <!-- <div class="logo-showcase-section"> -->
   <div class="marquee-container">
@@ -175,6 +173,15 @@ Samen bouwen we aan een lerend zorgsysteem, waarin veiligheid, betrouwbaarheid e
 ---
 
 <br>
+
+### Wat doet PLUGIN concreet?
+Wij leveren de diensten die nodig zijn om deze samenwerking mogelijk te maken. Dit doen we op drie niveaus:
+
+* **Toezien op eerlijke spelregels:** Wij zorgen voor de spelregels, het toezicht en de centrale 'telefoonboek'-functie zodat onderzoekers en ziekenhuizen elkaar veilig kunnen vinden.
+* **Ziekenhuizen helpen met het aansluiten op PLUGIN:** Wij ondersteunen ziekenhuizen bij de techniek om aan te sluiten en daarmee hun data op een gecontroleerde manier beschikbaar te stellen. We helpen met de installatie van de benodigde software. Daarnaast maken we de data geschikt voor hergebruik, door deze te transformeren naar gestandaardiseerde en machine-leesbare formaten.
+* **Gebruikers helpen de data te gebruiken:** Wij bieden onderzoekers de gereedschappen om – zonder dat data het ziekenhuis verlaten – toch gedetailleerde analyses en specifieke berekeningen te doen op de gegevens. Zo zetten we data om in waardevolle inzichten voor de zorg.
+
+PLUGIN organiseert niet alleen de technologie, maar ook de afspraken en processen die nodig zijn om data veilig en effectief te kunnen hergebruiken.
 
 ### PLUGIN is klaar voor de toekomst: de Europese context
 
