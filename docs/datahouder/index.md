@@ -5,9 +5,9 @@ title: voor datahouders
 
 # PLUGIN ondersteunt datahouders in het veilig beschikbaar stellen van gezondheidsgegevens
 
-Ziekenhuizen en andere datahouders staan voor een grote opgave om gezondheidsgegevens op grotere schaal beschikbaar te stellen voor hergebruik. De hoeveelheid gegevensverzoeken bij datahouders blijft onverminderd stijgen. Tegelijkertijd zien we dat veel van deze verzoeken of samenwerkingsverbanden allemaal een eigen infrastructuur nodig hebben. Dit terwijl de ontwikkelkalender van de IT afdeling al overvol is. Er is daarom dringend behoefte om op een __open, gestandaardiseerde__ en __veilige__ manier data beschikbaar te stellen. Dit is wat PLUGIN biedt.
+Ziekenhuizen en andere datahouders staan voor een grote opgave om gezondheidsgegevens op grotere schaal beschikbaar te stellen voor hergebruik. De hoeveelheid gegevensverzoeken bij datahouders blijft onverminderd stijgen. Tegelijkertijd zien we dat veel van deze verzoeken of samenwerkingsverbanden allemaal een eigen infrastructuur nodig hebben. Dit terwijl de ontwikkelkalender van de IT-afdeling al overvol is. Er is daarom dringend behoefte om op een __open, gestandaardiseerde__ en __veilige__ manier data beschikbaar te stellen. Dit is wat PLUGIN biedt.
 
-PLUGIN is verbonden aan Dutch Hospital Data (DHD) en brengt daarmee jarenlange ervaring met het implementeren en beheren van data verwerkingsomgevingen voor de zorg. Het vernieuwende van PLUGIN is dat sinds 2022 heeft gewerkt aan een landelijk dekkend, decentraal netwerk van zogenaamde datastations, waarmee hergebruik van gezondheidsgegevens op een betrouwbare en kosteneffectieve manier gerealiseerd kan worden. Per mei 2026 zijn ongeveer de helft van alle Nederlandse ziekenhuizen aangesloten op dit netwerk.
+PLUGIN is verbonden aan Dutch Hospital Data (DHD) en brengt daarmee jarenlange ervaring met het implementeren en beheren van dataverwerkingsomgevingen voor de zorg. Het vernieuwende van PLUGIN is dat het sinds 2022 heeft gewerkt aan een landelijk dekkend, decentraal netwerk van zogenaamde datastations, waarmee hergebruik van gezondheidsgegevens op een betrouwbare en kosteneffectieve manier gerealiseerd kan worden. Per mei 2026 zijn ongeveer de helft van alle Nederlandse ziekenhuizen aangesloten op dit netwerk.
 
 Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgelegd. Daarbij wordt PLUGIN op vijf verschillende niveaus uitgelegd: organisatie, proces, informatie, applicatie en infrastructuur. We hebben leeswijzers opgesteld aan de hand van dit vijflagenmodel.
 
@@ -40,7 +40,7 @@ Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgeleg
 
     === "Infrastructuur"
 
-        Dit niveau heeft betrekking op de technische infrastructuur waarbinnen de systemen draaien, zoals het netwerk, de servers en de data opslag. Het betreft de niet-zorgspecifieke ICT-componenten.
+        Dit niveau heeft betrekking op de technische infrastructuur waarbinnen de systemen draaien, zoals het netwerk, de servers en de dataopslag. Het betreft de niet-zorgspecifieke ICT-componenten.
 
         Voorbeelden van standaarden op dit niveau zijn Linux en cloud storage.
 
