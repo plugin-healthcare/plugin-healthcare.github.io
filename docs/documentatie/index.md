@@ -37,7 +37,7 @@ hide:
 
     PLUGIN is gebouwd met een modulaire architectuur en maakt gebruik van de beste open source componenten voor data.
 
-    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](architectuur/index.md)
+    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](https://plugin-healthcare.github.io/plugin-architecture/)
 
 -   :material-format-font:{ .lg .middle } __AI-ondersteund coderen__
 
