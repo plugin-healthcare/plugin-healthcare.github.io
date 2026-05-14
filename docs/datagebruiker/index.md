@@ -45,16 +45,3 @@ Dit betekent dat:
 Zo kunt u veilig en verantwoord gebruik maken van grote hoeveelheden zorgdata.
 
 PLUGIN maakt het mogelijk om per use case te kiezen tussen analyseren, leren of gegevensuitwisseling, zonder telkens een nieuwe oplossing te hoeven inrichten.
-
-<div class="grid cards" markdown>
-
-- :lucide-building-2: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./organisatie.md)
-- :lucide-workflow: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
-- :lucide-library-big: __Informatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
-- :lucide-layout-grid: __Applicatie__ <br>[Lees meer :octicons-arrow-right-24:](./applicatie.md)
-- :lucide-cpu: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
-
-</div>
-
-
-

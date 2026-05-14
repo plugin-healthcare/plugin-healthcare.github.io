@@ -47,14 +47,19 @@ Copyright &copy; 2025 PLUGIN kernteam
 nav = [
    { "voor datahouders" = [
         "datahouder/index.md",
-        "datahouder/bestuurder.md",
-        "datahouder/technisch.md",
+        "datahouder/organisatie.md",
+        "datahouder/proces.md",
+        "datahouder/informatie.md",
+        "datahouder/applicatie.md",
+        "datahouder/infrastructuur.md",
    ]},
    { "voor datagebruikers" = [
         "datagebruiker/index.md",
-        "datagebruiker/onderzoek.md",
-        "datagebruiker/beleid.md",
-        "datagebruiker/innovatie.md",
+        "datagebruiker/organisatie.md",
+        "datagebruiker/proces.md",
+        "datagebruiker/informatie.md",
+        "datagebruiker/applicatie.md",
+        "datagebruiker/infrastructuur.md",
    ]},
    { "documentatie" = [
         "documentatie/index.md",

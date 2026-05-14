@@ -43,16 +43,3 @@ Wat PLUGIN kan betekenen voor datahouders wordt in de volgende pagina's uitgeleg
         Dit niveau heeft betrekking op de technische infrastructuur waarbinnen de systemen draaien, zoals het netwerk, de servers en de dataopslag. Het betreft de niet-zorgspecifieke ICT-componenten.
 
         Voorbeelden van standaarden op dit niveau zijn Linux en cloud storage.
-
-
-
-
-<div class="grid cards" markdown>
-
-- :lucide-building-2: __Organisatie__ <br>[Lees meer :octicons-arrow-right-24:](./organisatie.md)
-- :lucide-workflow: __Proces__ <br>[Lees meer :octicons-arrow-right-24:](./proces.md)
-- :lucide-library-big: __Informatie__ <br>[Lees meer :octicons-arrow-right-24:](./informatie.md)
-- :lucide-layout-grid: __Applicatie__ <br>[Lees meer :octicons-arrow-right-24:](./applicatie.md)
-- :lucide-cpu: __Infrastructuur__ <br>[Lees meer :octicons-arrow-right-24:](./infrastructuur.md)
-
-</div>
