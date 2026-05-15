@@ -11,7 +11,6 @@ hide:
 
 In Nederlandse ziekenhuizen is ontzettend veel waardevolle kennis aanwezig. Gegevens over behandelingen en uitkomsten kunnen ons helpen om de zorg van morgen te verbeteren. Maar hoe delen we deze inzichten zonder de privacy van patiënten in gevaar te brengen en zonder dat medische gegevens zomaar 'op straat' komen te liggen? Dat is waar **PLUGIN** voor staat.
 
-<br>
 ## Wat is PLUGIN?
 PLUGIN is een data infrastructuur van en vóór de Nederlandse ziekenhuiszorg. Het is een zogeheten **Health Data Space**: een veilige, digitale omgeving waarin zorgdata hergebruikt kan worden voor wetenschappelijk onderzoek, innovatie en beleid - ook wel secundair gebruik genoemd.
 
