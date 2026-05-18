@@ -29,7 +29,7 @@ hide:
 
     PLUGIN werkt actief aan het standaardiseren en verbeteren van databeschikbaarheid. In samenwerking met zorgorganisaties, bedrijven en overheidsinstellingen heeft PLUGIN een FHIR profiel opgesteld.
 
-    [:octicons-arrow-right-24: Lees meer over het FHIR profiel](https://plugin.healthcare/fhir/)
+    [:octicons-arrow-right-24: Lees meer over het FHIR profiel](https://plugin.dhd.nl/architectuur/)
 
 -   :lucide-telescope:{ .lg .middle} __PLUGIN architectuur__
 
