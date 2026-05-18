@@ -29,7 +29,7 @@ hide:
 
     PLUGIN werkt actief aan het standaardiseren en verbeteren van databeschikbaarheid. In samenwerking met zorgorganisaties, bedrijven en overheidsinstellingen heeft PLUGIN een FHIR profiel opgesteld.
 
-    [:octicons-arrow-right-24: Lees meer over het FHIR profiel](https://plugin.dhd.nl/architectuur/)
+    [:octicons-arrow-right-24: Lees meer over het FHIR profiel](https://plugin.healthcare/fhir/)
 
 -   :lucide-telescope:{ .lg .middle} __PLUGIN architectuur__
 
@@ -37,7 +37,7 @@ hide:
 
     PLUGIN is gebouwd met een modulaire architectuur en maakt gebruik van de beste open source componenten voor data.
 
-    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](https://plugin-healthcare.github.io/plugin-architecture/)
+    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](https://plugin.dhd.nl/architectuur/)
 
 -   :material-format-font:{ .lg .middle } __AI-ondersteund coderen__
 
