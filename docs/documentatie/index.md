@@ -37,7 +37,7 @@ hide:
 
     PLUGIN is gebouwd met een modulaire architectuur en maakt gebruik van de beste open source componenten voor data.
 
-    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](https://plugin.dhd.nl/architectuur/)
+    [:octicons-arrow-right-24: Lees meer over de architectuur van PLUGIN](https://docs.plugin.dhd.nl/architectuur/)
 
 -   :material-format-font:{ .lg .middle } __AI-ondersteund coderen__
 
