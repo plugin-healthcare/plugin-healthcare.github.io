@@ -5,4 +5,4 @@ title: Benodigdheden
 
 ## Randvoorwaarden
 
-Wat heb je nodig om PLUGIN-Lake te installeren.
+Wat heb je nodig om PLUGIN datastatation te installeren.

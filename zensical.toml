@@ -67,26 +67,14 @@ nav = [
         "documentatie/vantage6-node/benodigdheden.md",
         "documentatie/vantage6-node/installatie.md",
         ]},
-        {"Installatiegids PLUGIN-Lake" = [
-        "documentatie/plugin-lake/benodigdheden.md",
-        "documentatie/plugin-lake/installatie.md",
+        {"Installatiegids PLUGIN-datastation" = [
+        "documentatie/plugin-datastation/benodigdheden.md",
+        "documentatie/plugin-datastation/installatie.md",
         ]},
         {"Installatiegids PLUGIN-ML" = [
         "documentatie/plugin-ml/benodigdheden.md",
         "documentatie/plugin-ml/installatie.md",
         ]},
-        {"Architectuur" = [
-        "documentatie/architectuur/introduction.md",
-        "documentatie/architectuur/constraints.md",
-        "documentatie/architectuur/scope.md",
-        "documentatie/architectuur/solution.md",
-        "documentatie/architectuur/building-blocks.md",
-        "documentatie/architectuur/runtime.md",
-        "documentatie/architectuur/deployment.md",
-        "documentatie/architectuur/concepts.md",
-        "documentatie/architectuur/adr.md",
-        ]},
-
    ]},
    { "community" = [
         "community/index.md",
@@ -111,7 +99,7 @@ extra_css = ["stylesheets/extra.css", "assets/stylesheets/logo-showcase.css"]
 # The path provided should be relative to the "docs_dir".
 #
 # Read more: https://zensical.org/docs/customization/#additional-javascript
-extra_javascript = ["assets/javascript/logo-showcase.js"]
+extra_javascript = ["assets/javascript/logo-showcase.js", "assets/javascript/likec4.js"]
 
 # ----------------------------------------------------------------------------
 # Section for configuring theme options

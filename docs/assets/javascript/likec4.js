@@ -1,0 +1,1 @@
+import '@likec4/webcomponent';

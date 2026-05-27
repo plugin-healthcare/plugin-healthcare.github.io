@@ -7,6 +7,11 @@ PLUGIN is modulair opgebouwd en bestaat daarmee uit verschillende componenten di
 
 ![](../images/plugin-applicaties.png)
 
+<likec4-view
+   view-id="index"
+   browser="true"
+   dynamic-variant="sequence">
+</likec4-view>
 
 !!! abstract "Leeswijzer applicatie componenten"
 

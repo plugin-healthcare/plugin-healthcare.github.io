@@ -7,15 +7,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :lucide-book-open-check:{ .lg .middle } __Stappenplan__
-
-    ---
-
-    Van kennismaking tot en met het klaarzetten en valideren van de data: datahouders kunnen in acht stappen deelnemen aan PLUGIN.
-
-    [:octicons-arrow-right-24: naar het stappenplan](#)
-
--   :lucide-wrench:{ .lg .middle } __Installatiegids vantage6__
+-   :lucide-wrench:{ .lg .middle } __Installatiegids PLUGIN-datastation__
 
     ---
 

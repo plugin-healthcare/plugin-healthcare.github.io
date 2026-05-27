@@ -168,6 +168,8 @@ Tegelijkertijd bouwt het datastation voort op bestaande data‑ontsluitingssyste
   </div>
 <!-- </div> -->
 
+![](images/plugin-map.png)
+
 ---
 
 <br>
