@@ -36,9 +36,9 @@ Tegelijkertijd bouwt het datastation voort op bestaande data‑ontsluitingssyste
 
 <div class="grid cards" markdown>
 
-- <figure markdown="span">![](images/data-owner-color.png){ width=200 }</figure><br>PLUGIN ondersteund [**datahouders**](./datahouder/index.md) in het veilig beschikbaar stellen van gezondheidsgegevens.
+- <figure markdown="span">![](images/data-owner-color.png){ width=200 }</figure><br>PLUGIN ondersteunt [**datahouders**](./datahouder/index.md) in het veilig beschikbaar stellen van gezondheidsgegevens.
 
-- <figure markdown="span">![](images/data-user-color.png){ width=200 }</figure><br>PLUGIN ondersteund [**datagebruikers**](./datagebruiker/index.md) met het hergebruik van data voor onderzoek, beleid en innovatie.
+- <figure markdown="span">![](images/data-user-color.png){ width=200 }</figure><br>PLUGIN ondersteunt [**datagebruikers**](./datagebruiker/index.md) met het hergebruik van data voor onderzoek, beleid en innovatie.
 
 </div>
 
