@@ -3,11 +3,13 @@ icon: lucide/building-2
 title: Organisatie
 ---
 
-Ziekenhuizen en andere datahouders moeten steeds meer de data die zijn vastgelegd tijdens het zorgproces, beschikbaar stellen voor hergebruik. Dit zogenaamde secundair gebruik van gezondheidsgegevens is niet nieuw, maar zal naar verwachting met de komst van de European Health Data Space (EHDS) toenemen. Datahouders zullen daarom zaken zoals proces, informatiestandaarden, applicaties en infrastructuur moeten organiseren om secundair gebruik van gezondheidsgegevens op een effectieve en efficiënte manier mogelijk te maken.
+Ziekenhuizen en andere datahouders moeten de data die zijn vastgelegd tijdens het zorgproces, steeds vaker beschikbaar stellen voor hergebruik. Dit zogenaamde secundair gebruik van gezondheidsgegevens is niet nieuw, maar zal naar verwachting met de komst van de European Health Data Space (EHDS) toenemen. Datahouders zullen daarom zaken zoals proces, informatiestandaarden, applicaties en infrastructuur moeten organiseren om secundair gebruik van gezondheidsgegevens op een effectieve en efficiënte manier mogelijk te maken.
+
 
 ![](../images/ehds-simpel.png)
 
-De organisatorische inrichting begint bij het onderscheiden van verschillende vormen van secundair gebruik, namelijk
+
+De organisatorische inrichting begint bij het onderscheiden van verschillende vormen van secundair gebruik, namelijk:
 
 - **Gegevensuitwisseling:** een data aanlevering, waarbij persoonsgegevens worden doorgestuurd aan de datagebruiker. Dit kan bijvoorbeeld een kwaliteitsregistratie zijn.
 - **Gegevensverzoek:** verschaffen van geanonimiseerde, geaggregeerde gegevens zonder dat de datagebruiker daarbij direct toegang te krijgen tot gezondheidsgegevens op persoonsniveau. Deze vorm van secundair gebruik is beschreven in [artikel 69](https://eur-lex.europa.eu/legal-content/NL/TXT/HTML/?uri=OJ:L_202500327&qid=1764922416982#art_69) van de EHDS.

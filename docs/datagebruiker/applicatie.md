@@ -3,7 +3,7 @@ icon: lucide/layout-grid
 title: Applicatie
 ---
 
-## Applicatielaag - uitvoeren van analyses en algoritmes
+## Applicatielaag: uitvoeren van analyses en algoritmes
 
 PLUGIN is modulair opgebouwd en bestaat daarmee uit verschillende componenten die hieronder schematisch zijn weergegeven. Een meer gedetailleerde toelichting staat beschreven in de handleiding en architectuur documentatie.
 

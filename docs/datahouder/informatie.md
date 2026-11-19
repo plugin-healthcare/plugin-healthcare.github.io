@@ -6,7 +6,7 @@ title: Informatie
 
 ## Twee niveaus van interoperabiliteit
 
-Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met het standaardiseren van de manier hoe datahouders informatie vastleggen. Hiertoe zal op twee niveaus interoperabiliteit moeten worden gerealiseerd.
+Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met het standaardiseren van de wijze waarop informatie wordt vastgelegd door datahouders. Hiertoe zal op twee niveaus interoperabiliteit moeten worden gerealiseerd.
 
 <div class="grid cards" markdown>
 
@@ -15,7 +15,7 @@ Het effectief en efficient hergebruik van gezondheidsgegevens staat of valt met 
     ---
     
     
-    Ten eerste is zogenaamde **syntactische interoperabiliteit** nodig. Dit gaat over de **vorm** en de **structuur** van het bericht, zoals bijvoorbeeld een brief.
+    Dit gaat over de **vorm** en de **structuur** van het bericht, zoals bijvoorbeeld een brief.
     Syntactische interoperabiliteit betekent dat de ontvanger de brief fysiek kan openen, herkent dat het een brief is, en dat zij de letters kan lezen (bijvoorbeeld het Latijnse alfabet).
 
     !!! quote "Analogie"
@@ -73,11 +73,11 @@ PLUGIN zet actief in op de doorontwikkeling en gebruik van deze transformaties, 
   
 Het bereiken van semantische interoperabiliteit omvat verschillende stappen, waaronder:
 
-Niet alle semantische interoperabiliteitsproblemen zijn even complex. Aan het ene kant van het spectrum bevinden zich generieke, breed gedeelde klinische gegevens — patiëntdemografie, diagnoses, medicatie, contacten, verrichtingen — waarvoor goed ingeburgerde standaarden (FHIR, OMOP CDM, SNOMED CT, LOINC, RxNorm) en steeds volwassener cross-model mappings al beschikbaar zijn. Aan het andere uiteinde bevinden zich zeer specifieke onderzoeksdomeinen — radiomics, multi-omics, gespecialiseerde biobankgegevens — waar minder consensus is over de gebruikte conceptuele modellen, codesystemen onvoldoende gedetaillerd zijn en het bereiken van semantische traceerbaarheid aanzienlijke inzet vereist van domein-experts.
+Niet alle semantische interoperabiliteitsproblemen zijn even complex. Aan de ene kant van het spectrum bevinden zich generieke, breed gedeelde klinische gegevens zoals patiëntdemografie, diagnoses, medicatie, contacten, verrichtingen, waarvoor goed ingeburgerde standaarden (FHIR, OMOP CDM, SNOMED CT, LOINC, RxNorm) en steeds volwassener cross-model mappings al beschikbaar zijn. Aan het andere uiteinde bevinden zich zeer specifieke onderzoeksdomeinen zoals radiomics, multi-omics, gespecialiseerde biobankgegevens, waar minder consensus is over de gebruikte conceptuele modellen, codesystemen onvoldoende gedetaillerd zijn en het bereiken van semantische traceerbaarheid aanzienlijke inzet vereist van domeinexperts.
 
-In dit spectrum richt PLUGIN zich in eerste instantie op het faciliteren van mappings van de meest gebruikte - en minst complexe - data elementen. Dit doen met met name door uit de gaan van de meest gebruikte vocabulaires en ontologieën, zoals SNOMED CT, LOINC, RxNorm, DHD diagnose- en verrichtingenthesaurus, en door het ondersteunen van transformaties tussen deze vocabularies. Tegelijkertijd werken we aan het ontwikkelen van een aanpak voor het faciliteren van semantische interoperabiliteit in meer complexe domeinen, waarbij we gebruik maken van project-specifieke aanleveringen en domein-experts om de benodigde semantische lagen aan te brengen.
+In dit spectrum richt PLUGIN zich in eerste instantie op het faciliteren van mappings van de meest gebruikte en minst complexe data-elementen. Dit doen we met name door uit te gaan van de meest gebruikte vocabulaires en ontologieën, zoals SNOMED CT, LOINC, RxNorm, DHD diagnose- en verrichtingenthesaurus, en door het ondersteunen van transformaties tussen deze vocabularies. Tegelijkertijd werken we aan het ontwikkelen van een aanpak voor het faciliteren van semantische interoperabiliteit in meer complexe domeinen, waarbij we gebruik maken van projectspecifieke aanleveringen en domeinexperts om de benodigde semantische lagen aan te brengen.
 
-Voor deze meest gangbare klinische gegevens bestaat er al een groeiend ecosysteem van mappings, zowel in Nederland als internationaal. [SSSOM (Simple Standard for Sharing Ontology Mappings)](https://github.com/mapping-commons/sssom) gecombineerd met [SEMAPV (Semantic Mapping Vocabulary)](https://github.com/mapping-commons/semantic-mapping-vocabulary) biedt een gestandaardiseerd, machine-leesbaar formaat voor het vastleggen van deze mappings, inclusief hun herkomst, betrouwbaarheid en motivering. Bestaande mappings zouden met behulp van deze standaarden vastgelegd en onderhouden kunnen worden, bijvoorbeeld:
+Voor deze meest gangbare klinische gegevens bestaat er al een groeiend ecosysteem van mappings, zowel in Nederland als internationaal. [SSSOM (Simple Standard for Sharing Ontology Mappings)](https://github.com/mapping-commons/sssom) gecombineerd met [SEMAPV (Semantic Mapping Vocabulary)](https://github.com/mapping-commons/semantic-mapping-vocabulary) biedt een gestandaardiseerd, machineleesbaar formaat voor het vastleggen van deze mappings, inclusief hun herkomst, betrouwbaarheid en motivering. Bestaande mappings zouden met behulp van deze standaarden vastgelegd en onderhouden kunnen worden, bijvoorbeeld:
 
 - DHD Diagnose- en Verrichtingenthesaurus — een Nederlandse ziekenhuiscoderingsthesaurus met potentieel voor gestandaardiseerde afstemming op ICD-10 en SNOMED CT.
 - Z-Index naar RxNorm — het ErasmusMC heeft een mapping gemaakt van het Nederlandse Z-Index-geneesmiddelenregister naar RxNorm; Cornet et al. beschrijven de volledige keten van Z-Index → ATC → RxNorm.
@@ -90,7 +90,7 @@ Metadata speelt een cruciale rol in een datastation. Zonder goede metadata van d
 
 - Datasets te vinden: Een onderzoeker kan in een catalogus zoeken naar datasets over hartfalen in een bepaalde leeftijdsgroep.
 - Datasets te begrijpen: De beschrijving vertelt welke variabelen er zijn, hoe de data is verzameld, en welke beperkingen er gelden.
--Datasets automatisch te verwerken: Systemen kunnen op basis van gestandaardiseerde metadata beoordelen of een dataset geschikt is voor een bepaalde analyse.
+- Datasets automatisch te verwerken: Systemen kunnen op basis van gestandaardiseerde metadata beoordelen of een dataset geschikt is voor een bepaalde analyse.
 
 Voor het realiseren van interoperabiliteit tussen datastations is het van groot belang dat metadata op een gestandaardiseerde manier wordt beschreven. Hiervoor zijn internationale standaarden en profielen ontwikkeld. PLUGIN gaat uit van HealthDCAT AP als metadata standaard.
 
@@ -129,7 +129,7 @@ Voor het realiseren van interoperabiliteit tussen datastations is het van groot 
 
         | Onderdeel | Waar toegelicht |
         |:-----------|:----------------|
-        | Gebruik van project-specifieke aanleveringen | Op deze pagina onder [AIOC aanlevering]() |
+        | Gebruik van projectspecifieke aanleveringen | Op deze pagina onder [AIOC aanlevering]() |
         | Gebruik van DHD diagnose- en verrichtingenthesaurus | Op deze pagina onder [DHD thesauri]() |
         | Gebruik van (inter)nationale codestelsels | Op deze pagina onder [codestelsels]() |
         | Transformaties tussen codestelsels | Op deze pagina onder [PLUGIN Lake]() |

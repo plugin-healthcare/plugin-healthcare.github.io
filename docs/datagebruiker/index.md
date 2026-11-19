@@ -11,15 +11,15 @@ PLUGIN maakt dit mogelijk.
 
 In plaats van data te verzamelen en te verplaatsen, brengt PLUGIN de analyse naar de data toe. Zo kunt u inzichten verkrijgen uit data die verspreid staat over meerdere ziekenhuizen, zonder dat deze data het ziekenhuis hoeft te verlaten.
 
-In situaties waarin het nodig is – bijvoorbeeld voor specifieke analyses of landelijke registraties – kan data via PLUGIN-Hub ook veilig en gecontroleerd worden overgeplaatst naar een centrale beveiligde verwerkingsomgeving of database.
+In situaties waarin het nodig is, bijvoorbeeld voor specifieke analyses of landelijke registraties, kan data via PLUGIN-Hub ook veilig en gecontroleerd worden overgeplaatst naar een centrale beveiligde verwerkingsomgeving of database.
 
 ## Drie manieren om met data te werken
 
 Binnen PLUGIN zijn er drie generieke manieren om data te benutten, afhankelijk van uw vraag en toepassing:
 
 - **Federatief analyseren:** U voert analyses uit op data die zich in meerdere ziekenhuizen bevindt, zonder dat deze data verplaatst wordt. De berekeningen worden lokaal uitgevoerd en alleen de resultaten worden gedeeld.
-- **Federatief leren (AI):** U kunt AI‑modellen trainen op data uit meerdere ziekenhuizen, zonder dat de onderliggende data wordt samengebracht. Het model leert van de data waar deze zich bevindt, en wordt stap voor stap verbeterd op basis van lokale bijdragen.
-- **Gegevensuitwisseling:** In situaties waarin data wel samengebracht moet worden – bijvoorbeeld voor registraties of specifieke analyses – ondersteunt PLUGIN veilige en gecontroleerde gegevensuitwisseling via het netwerk.
+- **Federatief leren (AI):** U kunt AI-modellen trainen op data uit meerdere ziekenhuizen, zonder dat de onderliggende data wordt samengebracht. Het model leert van de data waar deze zich bevindt, en wordt stap voor stap verbeterd op basis van lokale bijdragen.
+- **Gegevensuitwisseling:** In situaties waarin data wel samengebracht moet worden, bijvoorbeeld voor registraties of specifieke analyses, ondersteunt PLUGIN veilige en gecontroleerde gegevensuitwisseling via het netwerk.
 
 Deze drie vormen sluiten op elkaar aan en maken het mogelijk om voor elke use case de passende werkwijze te kiezen.
 

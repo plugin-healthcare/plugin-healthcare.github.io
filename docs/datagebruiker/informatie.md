@@ -3,9 +3,9 @@ icon: lucide/library-big
 title: Informatie
 ---
 
-## Informatielaag - gestandaardiseerde en herbruikbare data
+## Informatielaag: gestandaardiseerde en herbruikbare data
 
-Om analyses over meerdere ziekenhuizen mogelijk te maken, is het essentieel dat data op een consistente en interpreteerbare manier wordt aangeboden.
+Om analyses over meerdere ziekenhuizen mogelijk te maken, is het essentieel dat data op een consistente en interpreteerbare manier worden aangeboden.
 Binnen PLUGIN wordt data daarom:
 
 - gestructureerd
@@ -37,7 +37,7 @@ Dit betekent dat begrippen, definities en coderingen gestandaardiseerd zijn, zod
 Samen zorgen deze vormen van interoperabiliteit ervoor dat data niet alleen technisch uitwisselbaar is, maar ook inhoudelijk vergelijkbaar en bruikbaar is voor analyse.
 
 ## Betekenis voor datagebruikers
-Voor datagebruikers betekent dit dat zij:
+Ben je datagebruiker? Dan betekent dit dat je:
 
 - data uit verschillende ziekenhuizen kunnen combineren
 - analyses kunnen uitvoeren op consistente datasets

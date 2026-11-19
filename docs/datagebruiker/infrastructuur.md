@@ -3,12 +3,12 @@ icon: lucide/cpu
 title: Infrastructuur
 ---
 
-## Infrastructuurlaag - federatief vs. centraal
+## Infrastructuurlaag: federatief vs. centraal
 
 De infrastructuurlaag beschrijft hoe de infrastructuur technisch is opgebouwd.
 De kern bestaat uit:
 
-- **Datastations bij ziekenhuizen**: waar data wordt beheerd en analyses lokaal worden uitgevoerd
+- **Datastations bij ziekenhuizen**: waar data worden beheerd en analyses lokaal worden uitgevoerd
 - **Centrale voorzieningen (processing hub)**: waar taken worden gecoördineerd en resultaten worden verzameld
 
 
@@ -23,4 +23,4 @@ De infrastructuur is daarnaast:
 - **open**: datastations kunnen met verschillende samenwerkingen verbonden worden
 - **herbruikbaar**: dezelfde infrastructuur ondersteunt meerdere use cases
 
-Voor datagebruikers betekent dit dat zij kunnen werken met data over instellingen heen, zonder afhankelijk te zijn van losse koppelingen of maatwerkoplossingen per ziekenhuis.
+Voor jou als datagebruiker betekent dit dat je kunt werken met data over instellingen heen, zonder afhankelijk te zijn van losse koppelingen of maatwerkoplossingen per ziekenhuis.
